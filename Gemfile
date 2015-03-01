@@ -39,5 +39,5 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 
 
-gem 'activeadmin'
 gem 'byebug'
+gem 'activeadmin', github: 'activeadmin/activeadmin'
